@@ -89,3 +89,5 @@ Use case: Build and compile code for applications.
 23. CodeDeploy (Deployment Service):
 Purpose: Deploy code to resources.
 Use case: Automate code deployment to resources.
+
+24. Glue : AWS Glue is a serverless data integration service that makes data preparation simpler, faster, and cheaper	
